@@ -775,10 +775,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 | Role | Name | Contact |
 |------|------|---------|
-| **Lead Developer** | [R Sai Pranav] | [@github](https://github.com/yourname) |
-| **Blockchain Engineer** | [Tanush Jain] | [@github](https://github.com/name) |
-| **AI/ML Engineer** | [Manasai Rajesh] | [@github](https://github.com/name) |
-| **UI/UX Designer** | [Dhanashree ] | [@github](https://github.com/name) |
+| **Lead Developer** | [R Sai Pranav] | [@github](https://github.com/Pranav-error) |
+| **Blockchain Engineer** | [Tanush Jain] | [@github](https://github.com/Tanush-Jain) |
+| **AI/ML Engineer** | [Manasai Rajesh] | [@github](https://github.com/manasi1207) |
+| **UI/UX Designer** | [Dhanashree ] | [@github](https://github.com/techxlone0303) |
 
 ---
 
